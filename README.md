@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 📈 I'm currently working with data analysis.
-- 💡 Learning to program in Python and am very excited to learn how well-crafted software works. 
+- 💡 Learning to program in Python and very excited to learn how well-crafted software works. 
 
 <div align="center">
   <a href="https://github.com/yasmimsantos">
