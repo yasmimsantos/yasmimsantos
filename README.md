@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 📈 I'm currently studying back-end development.
-- 💡 Learning to program in Java and very excited to learn how well-crafted software works. 
+- 💡 Learning to program in Python and very excited to learn how well-crafted software works. 
 
 <div align="center">
   <a href="https://github.com/yasmimsantos">
