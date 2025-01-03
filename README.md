@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 📈 I am a data analyst with a degree in Systems Analysis and Development Technology.
-- 💡 Learning to program in Python and very excited to learn how well-crafted software works.
+- 💡 My focus is to program in Python and very excited to learn how well-crafted software works.
 - I am also expanding my expertise by studying front-end technologies through the Full Stack Developer in Python course at EBAC – British School of Creative Arts and Technology.
 
 <div align="center">
